@@ -16,3 +16,7 @@ $) Develop curiosity
 5) You will get most relevant answer any human can ever give
 
 Enjoy question answering!!!
+
+
+Techonologies Used ::
+NextJs, Typescript, OpenAI, Langchain
